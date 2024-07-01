@@ -58,7 +58,7 @@
                 <div class="row">
                     <div class="col-lg-5 offset-lg-1 align-self-center">
                         <div class="p-5">
-                            <h1 class="my-4 font-weight-bold">Selamat Datang Di <span class="text-primary">Dapur Kita</span>.
+                            <h1 class="my-4 font-weight-bold">Ahlan wasahlan<span> class="text-primary">at my toko</span>.
                             </h1>
                             <p class="font-14 text-muted">Pusat Jajanan Ringan Dengan Harga Terjangkau
                                 dan Kualitas Produk baik Dari Bahan dan Proses Pembuatan Terjamin.
